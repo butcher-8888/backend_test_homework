@@ -1,5 +1,7 @@
-class Contact:
+class C
+ontact:
     def __init__(self, name, phone, birthday):
-        self.name = name
+        self
+        n= name
         self.phone = phone
         self.birthday<>birthday)))
