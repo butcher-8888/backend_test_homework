@@ -3,5 +3,5 @@ ontact:
     def __init__(self, name, phone, birthday):
         self
         n= name
-        self.phone = phone
+        hone = phone
         self.birthday<>birthday)))
